@@ -179,7 +179,7 @@ python -m pytest
 
 All tests should pass.
 
-10️⃣ Stopping the Application
+1️⃣0️⃣ Stopping the Application
 
 Press CTRL + C in the terminal to stop backend or frontend
 
